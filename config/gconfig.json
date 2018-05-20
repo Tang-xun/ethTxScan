@@ -1,0 +1,91 @@
+{
+    "prd": {
+        "accounts": [
+            {
+                "address": "0x29f8739b9bf189cc91c8818780b95418d94f4cc6",
+                "pwd": "SmartGuess",
+                "expire": 2000
+            },
+            {
+                "address": "0x68011ef061bd67d5f3e84ba4ecc07cbec84cad5b",
+                "pwd": "SmartGuess",
+                "expire": 2000
+            },
+            {
+                "address": "0xc8fb330a26a15c19505b248c3daca2a7ccdf47e4",
+                "pwd": "SmartMiner",
+                "expire": 2000
+            },
+            {
+                "address": "0xf6d48f8b11893387806144d86cfcec379d703423",
+                "pwd": "SmartMiner",
+                "expire": 2000
+            },
+            {
+                "address": "0xc6a6fc9eb75120d6804b393d130a7ab91016993b",
+                "pwd": "Player",
+                "expire": 2000
+            },
+            {
+                "address": "0x47cb537cbc1ee4cb84013ebaef0e7bcb8ba132ab",
+                "pwd": "Player",
+                "expire": 2000
+            },
+            {
+                "address": "0x8fb36ad9f18c305d0416b52ef4a9d745b795c366",
+                "pwd": "Player",
+                "expire": 2000
+            },
+            {
+                "address": "0x2d6f5260aa2a3db01bdf86eec498519c63896186",
+                "pwd": "Player",
+                "expire": 2000
+            }
+        ],
+        "hosts": [
+            {
+                "ip": "172.18.159.45",
+                "port": "7755"
+            },
+            {
+                "ip": "172.18.230.62",
+                "port": "7755"
+            }
+        ]
+    },
+    "stg": {
+        "accounts": [
+            {
+                "address": "0x4bdb4f86bb143900b2a3eff5dfc11274cfe6d76e",
+                "pwd": "tangxun_123@163.com",
+                "expire": 2000
+            },
+            {
+                "address": "0xc1520a6a4d30a1d34e23c5ed04a4ccaab0deb95d",
+                "pwd": "tangxun_123@163.com",
+                "expire": 2000
+            },
+            {
+                "address": "0x2b44a86ef4bd136e76f56db86f636978997d057e",
+                "pwd": "tangxun_123@163.com",
+                "expire": 2000
+            },
+            {
+                "address": "0xfd62674f1743585f72a5bb46a93776349d2c1f5b",
+                "pwd": "tangxun_123@163.com",
+                "expire": 2000
+            },
+            {
+                "address": "0x507df27503e24459d997479984b86548875c2378",
+                "pwd": "tangxun_123@163.com",
+                "expire": 2000
+            }
+        ],
+        "hosts": [
+            {
+                "ip": "localhost",
+                "port": "7755"
+            }
+        ]
+    }
+}

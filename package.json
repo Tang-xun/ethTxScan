@@ -1,0 +1,16 @@
+{
+  "name": "com.ethtxscan",
+  "version": "1.0.0",
+  "description": "eth tx scan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tank",
+  "license": "ISC",
+  "dependencies": {
+    "routes": "^2.1.0",
+    "testrpc": "0.0.1",
+    "web3": "^0.20.6"
+  }
+}
